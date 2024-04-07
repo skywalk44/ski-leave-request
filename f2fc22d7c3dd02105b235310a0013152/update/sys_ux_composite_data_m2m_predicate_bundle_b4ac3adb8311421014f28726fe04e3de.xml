@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">f0ac3adb0511421053ad239a9d19a8e1</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">bcac3adb951142104b1db9f8a5930ddc</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-06 23:50:37</sys_created_on>
+        <sys_id>b4ac3adb8311421014f28726fe04e3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_b4ac3adb8311421014f28726fe04e3de</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-06 23:50:37</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>
