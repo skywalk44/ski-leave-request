@@ -407,14 +407,14 @@
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="Landing Page">3cac3adb68114210cadec1c8ba633ff0</screen_type>
+        <screen_type display_value="방문 페이지">3cac3adb68114210cadec1c8ba633ff0</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2024-04-06 23:50:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>38ac3adbbf114210d48d1f9cadf4a9cd</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_name>Landing Page Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
@@ -422,7 +422,7 @@
         <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
         <sys_update_name>sys_ux_screen_38ac3adbbf114210d48d1f9cadf4a9cd</sys_update_name>
         <sys_updated_by>in06229</sys_updated_by>
-        <sys_updated_on>2024-04-07 01:05:15</sys_updated_on>
+        <sys_updated_on>2024-04-07 05:24:16</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=38ac3adbbf114210d48d1f9cadf4a9cd"/>
 </record_update>

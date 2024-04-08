@@ -6,13 +6,13 @@
         <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[
     {
-        "eventMappingId": "cluoyhhccupaaaaggjddjiiccffcggaavkzk",
+        "eventMappingId": "clupeeiiuqeaaaahhfddjiiccktjjhwoab",
         "isConfiguration": false,
         "offRowStorageId": null,
-        "sourceEventApiName": "x_skil_leave_req_0.NAV_ITEM_SELECTED_RELAY_66f09393c39142105b235310a0013123",
+        "sourceEventApiName": "x_skil_leave_req_0.NAV_ITEM_SELECTED_RELAY_51288cafc35542105b235310a0013157",
         "sourceEventCorrelationId": null,
         "sourceEventDefinition": {
-            "apiName": "x_skil_leave_req_0.NAV_ITEM_SELECTED_RELAY_66f09393c39142105b235310a0013123",
+            "apiName": "x_skil_leave_req_0.NAV_ITEM_SELECTED_RELAY_51288cafc35542105b235310a0013157",
             "id": null,
             "type": "UXEVENT"
         },
@@ -115,13 +115,13 @@
                     "sysId": "8b82bf18e5276c8e423b6e4e0889b463"
                 },
                 "operation": null,
-                "targetId": "cluoyhhccupaaaaggiddjiiccgaaapddghhgg",
+                "targetId": "clupeeiiuqeaaaahheddjiicckbbddlaadub",
                 "type": "EVENT"
             }
         ]
     }
 ]</event_mappings>
-        <macroponent display_value="Leave request list 2 Default">66f09393c39142105b235310a0013123</macroponent>
+        <macroponent display_value="My Approvals Default">51288cafc35542105b235310a0013157</macroponent>
         <macroponent_config>{
     "bare": {
         "type": "JSON_LITERAL",
@@ -152,28 +152,28 @@
         "value": "y"
     }
 }</macroponent_config>
-        <name>Leave request list 2 Default</name>
+        <name>My Approvals Default</name>
         <order>0</order>
         <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="Leave request list 2">def09393c39142105b235310a001311d</screen_type>
+        <screen_type display_value="내 승인">c9288cafc35542105b235310a0013151</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>in06229</sys_created_by>
-        <sys_created_on>2024-04-07 01:19:29</sys_created_on>
+        <sys_created_on>2024-04-07 05:20:29</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f6f09793c39142105b235310a00131c3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Leave request list 2 Default</sys_name>
+        <sys_id>1d288cafc35542105b235310a0013159</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>My Approvals Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
         <sys_policy/>
         <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
-        <sys_update_name>sys_ux_screen_f6f09793c39142105b235310a00131c3</sys_update_name>
+        <sys_update_name>sys_ux_screen_1d288cafc35542105b235310a0013159</sys_update_name>
         <sys_updated_by>in06229</sys_updated_by>
-        <sys_updated_on>2024-04-07 03:13:01</sys_updated_on>
+        <sys_updated_on>2024-04-07 06:21:28</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=f6f09793c39142105b235310a00131c3"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d288cafc35542105b235310a0013159"/>
 </record_update>

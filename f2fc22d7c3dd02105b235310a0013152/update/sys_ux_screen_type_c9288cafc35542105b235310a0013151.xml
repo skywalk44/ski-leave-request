@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>My Approvals</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>in06229</sys_created_by>
+        <sys_created_on>2024-04-07 05:20:29</sys_created_on>
+        <sys_id>c9288cafc35542105b235310a0013151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Approvals</sys_name>
+        <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
+        <sys_update_name>sys_ux_screen_type_c9288cafc35542105b235310a0013151</sys_update_name>
+        <sys_updated_by>in06229</sys_updated_by>
+        <sys_updated_on>2024-04-07 05:20:29</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9288cafc35542105b235310a0013151"/>
+</record_update>
