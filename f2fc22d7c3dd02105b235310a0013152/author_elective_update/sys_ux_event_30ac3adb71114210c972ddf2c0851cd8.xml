@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_b4ac3adb5711421005d7d1170af21cf9</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Nav Item Selected Relay (Landing Page Default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"If redirect is true, url will be redirected"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi instance field"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub navigation route "},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-06 23:50:40</sys_created_on>
+        <sys_id>30ac3adb71114210c972ddf2c0851cd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav Item Selected Relay (Landing Page Default)</sys_name>
+        <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
+        <sys_update_name>sys_ux_event_30ac3adb71114210c972ddf2c0851cd8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-06 23:50:40</sys_updated_on>
+    </sys_ux_event>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</application>
+        <file_path/>
+        <instance_id>498428ab1b44c6d439a54089bd4bcb55</instance_id>
+        <instance_name>skipov</instance_name>
+        <name>sys_ux_event_30ac3adb71114210c972ddf2c0851cd8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>NAV_ITEM_SELECTED_RELAY_b4ac3adb5711421005d7d1170af21cf9</event_name><explicit_api_name/><interfaces/><label>Nav Item Selected Relay (Landing Page Default)</label><props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"If redirect is true, url will be redirected"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi instance field"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub navigation route "},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props><required_translations/><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-04-06 23:50:40</sys_created_on><sys_id>30ac3adb71114210c972ddf2c0851cd8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Nav Item Selected Relay (Landing Page Default)</sys_name><sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package><sys_policy/><sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope><sys_update_name>sys_ux_event_30ac3adb71114210c972ddf2c0851cd8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-04-06 23:50:40</sys_updated_on></sys_ux_event></record_update>]]></payload>
+        <payload_hash>-1024325526</payload_hash>
+        <record_name>Nav Item Selected Relay (Landing Page Default)</record_name>
+        <reverted_from/>
+        <source>2757f813c31102105b235310a0013106</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-04-06 14:08:20</sys_created_on>
+        <sys_id>ff764f97c35142105b235310a00131e2</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18eb3bd20200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Event</type>
+        <update_guid>bf764f97585142102ba6f39bdbeb4be2</update_guid>
+        <update_guid_history>bf764f97585142102ba6f39bdbeb4be2:-1024325526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>in06229</sys_created_by>
+        <sys_created_on>2024-04-07 00:33:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>3a1da24ccf2e493d8f0f26baae3a1239</sys_id>
+        <sys_metadata>30ac3adb71114210c972ddf2c0851cd8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav Item Selected Relay (Landing Page Default)</sys_name>
+        <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
+        <sys_scope_delete display_value="">6ac3bed256934c94887d8eb03c0eb849</sys_scope_delete>
+        <sys_update_name>sys_ux_event_30ac3adb71114210c972ddf2c0851cd8</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_30ac3adb71114210c972ddf2c0851cd8">ff764f97c35142105b235310a00131e2</sys_update_version>
+        <sys_updated_by>in06229</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:33:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31a3ba53c31142105b235310a001310c" label="Leave request" max_length="40" name="x_skil_leave_req_0_leave_request" type="collection">
+        <element choice="3" label="Approval" max_length="40" name="approval" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value=" not requested"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Approver" mandatory="true" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="Content" mandatory="true" max_length="40" name="content" type="string"/>
+        <element label="Leave end" max_length="40" name="leave_end" type="calendar_date_time"/>
+        <element label="Leave start" mandatory="true" max_length="40" name="leave_start" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+        <index name="index2">
+            <element name="requester"/>
+        </index>
+    </element>
+</database>

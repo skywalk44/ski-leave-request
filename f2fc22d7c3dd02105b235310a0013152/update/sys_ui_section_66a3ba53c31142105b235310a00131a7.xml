@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="66a3ba53c31142105b235310a00131a7" sys_domain="global" table="x_skil_leave_req_0_leave_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:11:24</sys_created_on>
+            <sys_id>e2a3ba53c31142105b235310a00131ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:11:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>1</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:15:13</sys_created_on>
+            <sys_id>ee843e93c31142105b235310a0013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:15:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <position>2</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:16:17</sys_created_on>
+            <sys_id>1ac472d3c31142105b235310a00131ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:16:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>content</element>
+            <position>3</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:16:55</sys_created_on>
+            <sys_id>1be436d3c31142105b235310a001310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_start</element>
+            <position>4</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:18:43</sys_created_on>
+            <sys_id>bd55bad3c31142105b235310a0013189</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:18:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_end</element>
+            <position>5</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:18:54</sys_created_on>
+            <sys_id>e865fad3c31142105b235310a00131fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:18:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>6</position>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:21:46</sys_created_on>
+            <sys_id>ee06f617c31142105b235310a0013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_skil_leave_req_0_leave_request" sys_domain="global" view="Default view">66a3ba53c31142105b235310a00131a7</sys_ui_section>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:21:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_skil_leave_req_0_leave_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>in06229</sys_created_by>
+            <sys_created_on>2024-04-06 23:11:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66a3ba53c31142105b235310a00131a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_skil_leave_req_0_leave_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leave request" source="x_skil_leave_req_0">f2fc22d7c3dd02105b235310a0013152</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave request">f2fc22d7c3dd02105b235310a0013152</sys_scope>
+            <sys_update_name>sys_ui_section_66a3ba53c31142105b235310a00131a7</sys_update_name>
+            <sys_updated_by>in06229</sys_updated_by>
+            <sys_updated_on>2024-04-06 23:11:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
